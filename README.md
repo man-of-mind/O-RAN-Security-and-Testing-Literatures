@@ -3,7 +3,7 @@ This repo consists of related documents and papers for O-RAN security and testin
 # O-RAN Testing Documents and Papers
 
 <ol>
-<li><a href="https://www.vodafone.com/sites/default/files/2023-08/vodafone-open-ran-handbook.pdf" style="text-decoration:underline;">Vodafone Oepn RAN Handbook</a></li>
+<li><a href="https://www.vodafone.com/sites/default/files/2023-08/vodafone-open-ran-handbook.pdf" style="text-decoration:underline;">Vodafone Open RAN Handbook</a></li>
 <li><a href="https://www.vodafone.com/sites/default/files/2023-08/vodafone-open-ran-handbook.pdf" style="text-decoration:underline;">Ericsson: How automated testing can address the challenges of O-RAN Deployment</a></li>
 </ol>
 
