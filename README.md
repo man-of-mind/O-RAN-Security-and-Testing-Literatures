@@ -11,6 +11,7 @@ This repo consists of related documents and papers for O-RAN security and testin
 <ol>
 <li><a href="https://www.ndss-symposium.org/wp-content/uploads/2024-527-paper.pdf" style="text-decoration:underline;">5G-Spector</a></li>
 <li><a href="https://syed-rafiul-hussain.github.io/wp-content/uploads/2024/07/ORANalyst-USENIX-Security-24.pdf" style="text-decoration:underline;">ORANalyst</a></li>
+<li><a href="https://arxiv.org/pdf/2410.20958" style="text-decoration:underline;">CovFuzzer</a></li>
 <li><a href="https://www.usenix.org/system/files/usenixsecurity24-xing-jiarong.pdf" style="text-decoration:underline;">Criticality of Integrity Protection in 5G Fronthaul Networks</a></li>
 
 </ol>
