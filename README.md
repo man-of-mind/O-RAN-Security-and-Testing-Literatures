@@ -24,5 +24,6 @@ This repo consists of related documents and papers for O-RAN security and testin
 # Others
 <ol>
 <li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10622798" style="text-decoration:underline;">TRACTOR</a></li>
+<li><a href="https://arxiv.org/pdf/2412.14119" style="text-decoration:underline;">Learning and Reconstructing Conflicts in O-RAN using GNN</a></li>
 
 </ol>
